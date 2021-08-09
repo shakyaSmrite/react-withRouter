@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+}
+
+.App {
+  margin: 30px;
+  padding: 30px;
+  border: 5px solid rgb(107, 76, 218);
+  background-color: rgb(212, 233, 193);
+}
+
+Button {
+  background-color: rgb(127, 117, 185);
+  color: rgb(253, 249, 249);
+}
+
+.del {
+  padding: 10px;
+  border: 4px dotted rgb(122, 102, 196);
+}
+
+.entrynam {
+  padding: 10px;
+  border: 4px dotted rgb(122, 102, 196);
+}
+
+.favorite {
+  padding: 10px;
+  border: 4px double rgb(90, 88, 201);
+}
+
+.employerName {
+  border: 2px solid black;
+}
+
+.jsonList {
+  border: 2px solid black;
+}
+.data2 {
+  padding: 16px;
+}
+
+.bodysection {
+  display: flex;
+}
+
+.bodysection1 {
+  flex: 1;
+  margin: 10px;
+}
+
+.spacesection {
+  border: 2px solid black;
+}
+
+.data3 {
+  padding: 20px;
+}

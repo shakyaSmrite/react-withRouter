@@ -1,0 +1,615 @@
+[
+  {
+    "University_Name": "University of North Carolina at Charlotte",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2020,
+    "Employer": "TCS",
+    "Job_Title": "Software Engineer",
+    "Job_Start_Date": "6/20/2020",
+    "Career_Url": "https://ibegin.tcs.com/iBegin/jobs/search"
+  },
+  {
+    "University_Name": "University of North Carolina at Charlotte",
+    "Specialization": "Information Technology",
+    "Graduation_Year": 2020,
+    "Employer": "Toshiba Global Commerce Solutions",
+    "Job_Title": "Software Engineer",
+    "Job_Start_Date": "11/1/2020",
+    "Career_Url": ""
+  },
+  {
+    "University_Name": "Northeastern University",
+    "Specialization": "Informatics",
+    "Graduation_Year": 2020,
+    "Employer": "Brandt Information Services",
+    "Job_Title": "Financial Data Analyst",
+    "Job_Start_Date": "1/1/2021",
+    "Career_Url": "https://www.brandtinfo.com/careers/"
+  },
+  {
+    "University_Name": "California State University",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2020,
+    "Employer": "Ideal Concepts, Inc.",
+    "Job_Title": "Jr Software Developer",
+    "Job_Start_Date": "9/1/2020",
+    "Career_Url": "http://idealconcepts.com/careers"
+  },
+  {
+    "University_Name": "Northeastern University",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2017,
+    "Employer": "Deloitte Digital",
+    "Job_Title": "Data Consultant",
+    "Job_Start_Date": "7/1/2018",
+    "Career_Url": "https://www.deloittedigital.com/us/en/careers.html"
+  },
+  {
+    "University_Name": "Texas A&M University",
+    "Specialization": "Industrial Engineering",
+    "Graduation_Year": 2020,
+    "Employer": "Citi",
+    "Job_Title": "Assistant Vice President- Credit Portfolio Senior Analyst",
+    "Job_Start_Date": "9/1/2020",
+    "Career_Url": "https://careers.citigroup.com/"
+  },
+  {
+    "University_Name": "University of North Carolina at Charlotte",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2020,
+    "Employer": "Shutterfly",
+    "Job_Title": "Software Development Engineer II (Data Engineer)",
+    "Job_Start_Date": "8/1/2020",
+    "Career_Url": "https://jobs.jobvite.com/shutterfly"
+  },
+  {
+    "University_Name": "University of North Carolina at Charlotte",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2020,
+    "Employer": "EBSCO Information Services",
+    "Job_Title": "Senior Mobile Developer",
+    "Job_Start_Date": "1/1/2021",
+    "Career_Url": "https://careers.ebscoind.com/ebscoinformationservices"
+  },
+  {
+    "University_Name": "University of North Carolina at Charlotte",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2020,
+    "Employer": "Avail Medsystems",
+    "Job_Title": "Data Engineer",
+    "Job_Start_Date": "10/1/2020",
+    "Career_Url": "https://avail.io/careers"
+  },
+  {
+    "University_Name": "California State University - Long Beach",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2020,
+    "Employer": "Scrum Adventures, Inc.",
+    "Job_Title": "Application Developer",
+    "Job_Start_Date": "6/1/2019",
+    "Career_Url": "https://scrumadventures.com/careers/"
+  },
+  {
+    "University_Name": "University of North Carolina at Charlotte",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2019,
+    "Employer": "Group K Diagnostics",
+    "Job_Title": "Software Engineer",
+    "Job_Start_Date": "8/1/2020",
+    "Career_Url": "https://groupkdiagnostics.com/career"
+  },
+  {
+    "University_Name": "San Jose State University",
+    "Specialization": "Computer Engineering",
+    "Graduation_Year": 2020,
+    "Employer": "UPS",
+    "Job_Title": "Software Engineer",
+    "Job_Start_Date": "1/1/2021",
+    "Career_Url": "https://upscareers.jobs/usa/jobs/"
+  },
+  {
+    "University_Name": "Auburn University",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2020,
+    "Employer": "7 cups",
+    "Job_Title": "Verified listener (Volunteer)",
+    "Job_Start_Date": "6/1/2015",
+    "Career_Url": "https://www.7cups.com/about/jobs/"
+  },
+  {
+    "University_Name": "California State University - Long Beach",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2020,
+    "Employer": "eBay",
+    "Job_Title": "Software Engineer",
+    "Job_Start_Date": "9/1/2020",
+    "Career_Url": "https://careers.ebayinc.com/"
+  },
+  {
+    "University_Name": "Arizona State University",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2020,
+    "Employer": "Amazon",
+    "Job_Title": "Machine Learning Engineer",
+    "Job_Start_Date": "8/1/2020",
+    "Career_Url": "https://www.amazon.com/"
+  },
+  {
+    "University_Name": "University of Maryland Baltimore County",
+    "Specialization": "Human Centered Computing",
+    "Graduation_Year": 2020,
+    "Employer": "Mindgrub",
+    "Job_Title": "Senior Interaction Designer",
+    "Job_Start_Date": "8/1/2020",
+    "Career_Url": "https://www.mindgrub.com/work"
+  },
+  {
+    "University_Name": "Arizona State University",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2020,
+    "Employer": "American Express",
+    "Job_Title": "Data Architect RA",
+    "Job_Start_Date": "11/1/2020",
+    "Career_Url": "https://careers.americanexpress.com/"
+  },
+  {
+    "University_Name": "University of North Texas",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2021,
+    "Employer": "Blackberry",
+    "Job_Title": "Software Engineer - Machine Learning Intern",
+    "Job_Start_Date": "1/1/2021",
+    "Career_Url": "https://www.blackberry.com/us/en/company/careers"
+  },
+  {
+    "University_Name": "Arizona State University",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2020,
+    "Employer": "American Express",
+    "Job_Title": "Data Scientist RA",
+    "Job_Start_Date": "10/1/2020",
+    "Career_Url": "https://careers.americanexpress.com/"
+  },
+  {
+    "University_Name": "Arizona State University",
+    "Specialization": "Computer Software Engineering",
+    "Graduation_Year": 2020,
+    "Employer": "DHL Global Forwarding",
+    "Job_Title": "Solution Delivery Intern",
+    "Job_Start_Date": "6/1/2020",
+    "Career_Url": "https://www.dhl.com/global-en/home/careers.html"
+  },
+  {
+    "University_Name": "Arizona State University",
+    "Specialization": "Computer Engineering",
+    "Graduation_Year": 2020,
+    "Employer": "SAP Concur",
+    "Job_Title": "Developer",
+    "Job_Start_Date": "1/1/2021",
+    "Career_Url": "https://www.concur.com/careers"
+  },
+  {
+    "University_Name": "Virginia Tech",
+    "Specialization": "Mechanical Engineering",
+    "Graduation_Year": 2020,
+    "Employer": "Microsoft",
+    "Job_Title": "Thermal Test Engineer",
+    "Job_Start_Date": "7/1/2020",
+    "Career_Url": "https://careers.microsoft.com/us/en"
+  },
+  {
+    "University_Name": "University of Washington - Michael G. Foster School of Business",
+    "Specialization": "Information Systems",
+    "Graduation_Year": 2020,
+    "Employer": "Games for Love",
+    "Job_Title": "Research Analyst/ Program Manager",
+    "Job_Start_Date": "11/1/2020",
+    "Career_Url": "https://gamesforlove.org/"
+  },
+  {
+    "University_Name": "San Jose State University",
+    "Specialization": "Computer Software Engineering",
+    "Graduation_Year": 2021,
+    "Employer": "Finovera",
+    "Job_Title": "Software Engineer Intern",
+    "Job_Start_Date": "7/1/2020",
+    "Career_Url": "https://www.finovera.com/careers/"
+  },
+  {
+    "University_Name": "San Jose State University",
+    "Specialization": "Computer Software Engineering",
+    "Graduation_Year": 2020,
+    "Employer": "Apple",
+    "Job_Title": "Full Stack Engineer",
+    "Job_Start_Date": "8/1/2020",
+    "Career_Url": "https://www.apple.com/jobs/us/"
+  },
+  {
+    "University_Name": "University of Tennessee, Knoxville",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2020,
+    "Employer": "Epic Nine",
+    "Job_Title": "Web Developer",
+    "Job_Start_Date": "7/1/2020",
+    "Career_Url": "https://epicnine.com/"
+  },
+  {
+    "University_Name": "University of North Carolina at Charlotte",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2020,
+    "Employer": "Walmart",
+    "Job_Title": "Software Engineer",
+    "Job_Start_Date": "8/1/2020",
+    "Career_Url": "https://careers.walmart.com/"
+  },
+  {
+    "University_Name": "University of North Carolina at Charlotte",
+    "Specialization": "Information Technology",
+    "Graduation_Year": 2020,
+    "Employer": "Alight Solutions",
+    "Job_Title": "Workday Technical Analyst",
+    "Job_Start_Date": "1/1/2021",
+    "Career_Url": "https://careers.alight.com/"
+  },
+  {
+    "University_Name": "Arizona State University",
+    "Specialization": "Computer Software Engineering",
+    "Graduation_Year": 2021,
+    "Employer": "Pegasystems",
+    "Job_Title": "Software Engineer Spring Intern",
+    "Job_Start_Date": "1/1/2021",
+    "Career_Url": "https://www.pega.com/about/careers"
+  },
+  {
+    "University_Name": "The University of Texas at Dallas",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2020,
+    "Employer": "HHAeXchange",
+    "Job_Title": "Software Engineer Intern",
+    "Job_Start_Date": "9/1/2020",
+    "Career_Url": "https://hhaexchange.com/careers/"
+  },
+  {
+    "University_Name": "Stony Brook University",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2020,
+    "Employer": "Bloomberg LP",
+    "Job_Title": "Software Engineer",
+    "Job_Start_Date": "1/1/2021",
+    "Career_Url": "https://careers.bloomberg.com/job/search"
+  },
+  {
+    "University_Name": "Stevens Institute of Technology",
+    "Specialization": "Computer Engineering",
+    "Graduation_Year": 2020,
+    "Employer": "Temple Allen Industries",
+    "Job_Title": "Software Engineer",
+    "Job_Start_Date": "8/1/2020",
+    "Career_Url": "http://templeallen.com/Careers.html"
+  },
+  {
+    "University_Name": "Syracuse University",
+    "Specialization": "Information Technology",
+    "Graduation_Year": 2020,
+    "Employer": "SupplyHouse.com",
+    "Job_Title": "Business Analyst",
+    "Job_Start_Date": "11/1/2020",
+    "Career_Url": "https://www.supplyhouse.com/careers"
+  },
+  {
+    "University_Name": "University of Maryland Baltimore County",
+    "Specialization": "Computer Information Systems",
+    "Graduation_Year": 2020,
+    "Employer": "AstraZeneca",
+    "Job_Title": "Software Engineer",
+    "Job_Start_Date": "9/1/2020",
+    "Career_Url": "https://www.astrazeneca-us.com/careers.html"
+  },
+  {
+    "University_Name": "Texas A&M University-Kingsville",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2020,
+    "Employer": "Bright Mind Enrichment and Schooling",
+    "Job_Title": "Software Developer",
+    "Job_Start_Date": "9/1/2020",
+    "Career_Url": "https://brightmindenrichment.org/"
+  },
+  {
+    "University_Name": "University of Southern California",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2019,
+    "Employer": "Citrix",
+    "Job_Title": "Software Engineer 2",
+    "Job_Start_Date": "9/1/2020",
+    "Career_Url": "https://www.citrix.com/careers/americas.html"
+  },
+  {
+    "University_Name": "University of Michigan - Stephen M. Ross School of Business",
+    "Specialization": "Supply Chain",
+    "Graduation_Year": 2020,
+    "Employer": "Impact Images Inc.",
+    "Job_Title": "Procurement and Iventory Coordinator",
+    "Job_Start_Date": "7/1/2020",
+    "Career_Url": "http://www.impactimagesinc.com/"
+  },
+  {
+    "University_Name": "Santa Clara University",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2020,
+    "Employer": "VMware Carbon Black",
+    "Job_Title": "Member of Technical Staff",
+    "Job_Start_Date": "1/1/2021",
+    "Career_Url": "https://www.vmware.com/asean/company/carbonblack-announcement.html#:~:text=VMware%20formally%20acquired%20Carbon%20Black,provider%20on%20October%208%2C%202019.&text=The%20acquisition%20of%20Carbon%20Black,across%20workloads%2C%20clients%20and%20applications."
+  },
+  {
+    "University_Name": "Syracuse University",
+    "Specialization": "Information Science/ Studies",
+    "Graduation_Year": 2020,
+    "Employer": "Our Ability, Inc.",
+    "Job_Title": "Program Manager",
+    "Job_Start_Date": "9/1/2020",
+    "Career_Url": "https://www.ourability.com/"
+  },
+  {
+    "University_Name": "University of Utah",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2021,
+    "Employer": "University of Utah Health",
+    "Job_Title": "Computer Vision Graduate Researcher",
+    "Job_Start_Date": "5/1/2020",
+    "Career_Url": "https://careers-uuhc.icims.com/jobs/intro?mobile=false&width=850&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420"
+  },
+  {
+    "University_Name": "University of Rochester",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2020,
+    "Employer": "AI Zwei",
+    "Job_Title": "Machine Learning Engineer",
+    "Job_Start_Date": "10/1/2020",
+    "Career_Url": "https://www.aizwei.com/"
+  },
+  {
+    "University_Name": "Texas A&M University",
+    "Specialization": "Industrial and Systems Engineering",
+    "Graduation_Year": 2020,
+    "Employer": "Tesla",
+    "Job_Title": "Quality Engineer",
+    "Job_Start_Date": "9/1/2020",
+    "Career_Url": "https://www.tesla.com/careers"
+  },
+  {
+    "University_Name": "The University of Texas at Dallas",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2020,
+    "Employer": "Perigean Technologies",
+    "Job_Title": "Software Engineer",
+    "Job_Start_Date": "8/1/2020",
+    "Career_Url": "http://perigeantechnologies.com/"
+  },
+  {
+    "University_Name": "Clemson University",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2021,
+    "Employer": "Lumen Technologies",
+    "Job_Title": "Software Developer II",
+    "Job_Start_Date": "1/1/2021",
+    "Career_Url": "https://www.lumen.com/en-us/home.html"
+  },
+  {
+    "University_Name": "Carnegie Mellon University - Tepper School of Business",
+    "Specialization": "Business Administration",
+    "Graduation_Year": 2020,
+    "Employer": "Cisco",
+    "Job_Title": "Product Manager - Mass-scale Infrastructure Group",
+    "Job_Start_Date": "11/1/2020",
+    "Career_Url": "https://www.cisco.com/c/en/us/about/careers.html"
+  },
+  {
+    "University_Name": "California State University, Fullerton",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2021,
+    "Employer": "The Network Pro, Inc",
+    "Job_Title": "Software Engineer (Fall 2020 Intern)",
+    "Job_Start_Date": "8/1/2020",
+    "Career_Url": "https://www.thenetworkpro.net/about-us/careers/"
+  },
+  {
+    "University_Name": "Indiana University Bloomington",
+    "Specialization": "Data Science",
+    "Graduation_Year": 2020,
+    "Employer": "Cummins Inc.",
+    "Job_Title": "Data Analyst",
+    "Job_Start_Date": "1/1/2021",
+    "Career_Url": "https://www.cummins.com/careers"
+  },
+  {
+    "University_Name": "Arizona State University",
+    "Specialization": "Computer Science (Big Data Systems)",
+    "Graduation_Year": 2020,
+    "Employer": "TaggiD, Inc.",
+    "Job_Title": "Chief Software Architect",
+    "Job_Start_Date": "1/1/2021",
+    "Career_Url": "https://www.tagg.id/"
+  },
+  {
+    "University_Name": "University of Southern California",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2021,
+    "Employer": "BigCommerce",
+    "Job_Title": "Software Engineering Intern",
+    "Job_Start_Date": "6/1/2020",
+    "Career_Url": "https://www.bigcommerce.com/careers/"
+  },
+  {
+    "University_Name": "Indiana University Bloomington",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2020,
+    "Employer": "Tata Consultancy Services",
+    "Job_Title": "Software developer",
+    "Job_Start_Date": "10/1/2020",
+    "Career_Url": "https://www.tcs.com/"
+  },
+  {
+    "University_Name": "University of Southern California",
+    "Specialization": "Electrical Engineering",
+    "Graduation_Year": 2020,
+    "Employer": "Micron Technology",
+    "Job_Title": "Data Scientist",
+    "Job_Start_Date": "9/1/2020",
+    "Career_Url": "https://www.micron.com/"
+  },
+  {
+    "University_Name": "Indiana University Bloomington",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2020,
+    "Employer": "Tata Consultancy Services",
+    "Job_Title": "Software developer",
+    "Job_Start_Date": "10/1/2020",
+    "Career_Url": "https://www.tcs.com/"
+  },
+  {
+    "University_Name": "New Jersey Institute of Technology",
+    "Specialization": "Data Science",
+    "Graduation_Year": 2020,
+    "Employer": "ICS Corporation",
+    "Job_Title": "Data progammer",
+    "Job_Start_Date": "8/1/2020",
+    "Career_Url": "https://icsinc.com/careers/"
+  },
+  {
+    "University_Name": "Binghamton University",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2019,
+    "Employer": "Egen Solutions",
+    "Job_Title": "Software Developer",
+    "Job_Start_Date": "9/1/2020",
+    "Career_Url": "https://egen.solutions/careers"
+  },
+  {
+    "University_Name": "California State University, Long Beach",
+    "Specialization": "Computer Science, A+",
+    "Graduation_Year": 2020,
+    "Employer": "TRISTAR Insurance Group",
+    "Job_Title": "Programming AnalystI",
+    "Job_Start_Date": "6/1/2020",
+    "Career_Url": "https://tristargroup.net/careers"
+  },
+  {
+    "University_Name": "Northeastern University",
+    "Specialization": "Information Systems",
+    "Graduation_Year": 2019,
+    "Employer": "McKinsey & Company",
+    "Job_Title": "Data Engineer",
+    "Job_Start_Date": "12/1/2020",
+    "Career_Url": "https://www.mckinsey.com/careers/search-jobs"
+  },
+  {
+    "University_Name": "Northern Illinois University",
+    "Specialization": "Industrial Engineering",
+    "Graduation_Year": 2019,
+    "Employer": "Adient",
+    "Job_Title": "Manufacturing Engineering Intern",
+    "Job_Start_Date": "8/1/2020",
+    "Career_Url": "https://www.adient.com/careers"
+  },
+  {
+    "University_Name": "New Jersey Institute of Technology",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2020,
+    "Employer": "Sirch",
+    "Job_Title": "Data Scientist",
+    "Job_Start_Date": "1/1/2021",
+    "Career_Url": "https://www.sirch.on.ca/"
+  },
+  {
+    "University_Name": "Northeastern University",
+    "Specialization": "Engineering Mangement",
+    "Graduation_Year": 2021,
+    "Employer": "Tesla",
+    "Job_Title": "Indirect Procurement Intern",
+    "Job_Start_Date": "1/1/2021",
+    "Career_Url": "https://www.tesla.com/careers"
+  },
+  {
+    "University_Name": "Michigan Technological University",
+    "Specialization": "Mechanical Engineering",
+    "Graduation_Year": 2021,
+    "Employer": "Tesla",
+    "Job_Title": "Supply Chain Logistics Intern",
+    "Job_Start_Date": "1/1/2021",
+    "Career_Url": "https://www.tesla.com/careers"
+  },
+  {
+    "University_Name": "Arizona State University",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2020,
+    "Employer": "Walmart Global Tech",
+    "Job_Title": "Software Engineer 2",
+    "Job_Start_Date": "7/1/2020",
+    "Career_Url": "https://careers.walmart.com/technology"
+  },
+  {
+    "University_Name": "Ira A. Fulton Schools of Engineering at Arizona Stat",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2020,
+    "Employer": "Sensagrate",
+    "Job_Title": "Software Engineer",
+    "Job_Start_Date": "7/1/2020",
+    "Career_Url": "https://www.sensagrate.com/careers.html"
+  },
+  {
+    "University_Name": "Northeastern University",
+    "Specialization": "Computer Information Systems",
+    "Graduation_Year": 2020,
+    "Employer": "PersuMedia",
+    "Job_Title": "Senior Software/Machine Learning Engineer-Natural Language Processing & Artificial Intelligence",
+    "Job_Start_Date": "10/1/2020",
+    "Career_Url": "https://www.persumedia.com/"
+  },
+  {
+    "University_Name": "Texas A&M University",
+    "Specialization": "Industrial Engineering",
+    "Graduation_Year": 2020,
+    "Employer": "Arnold Transportation Services",
+    "Job_Title": "Logistics Analyst",
+    "Job_Start_Date": "8/1/2020",
+    "Career_Url": "https://www.arnoldtrans.com/career/"
+  },
+  {
+    "University_Name": "Northeastern University",
+    "Specialization": "Information systems",
+    "Graduation_Year": 2020,
+    "Employer": "Wyngate Solutions",
+    "Job_Title": "Business Intelligence Engineer",
+    "Job_Start_Date": "9/1/2020",
+    "Career_Url": "https://careers.wyndhamhotels.com/"
+  },
+  {
+    "University_Name": "University of Southern California",
+    "Specialization": "Mechanical Engineering",
+    "Graduation_Year": 2019,
+    "Employer": "Manufacturing Equipment Engineer",
+    "Job_Title": "Illumina",
+    "Job_Start_Date": "11/1/2020",
+    "Career_Url": ""
+  },
+  {
+    "University_Name": "Stony Brook University",
+    "Specialization": "Computer Science",
+    "Graduation_Year": 2020,
+    "Employer": "Visa",
+    "Job_Title": "Senior Software Engineer Intern",
+    "Job_Start_Date": "5/1/2020",
+    "Career_Url": "https://usa.visa.com/careers.html"
+  },
+  {
+    "University_Name": "Northeastern University",
+    "Specialization": "Computer System Engineering - Internet of Things",
+    "Graduation_Year": 2020,
+    "Employer": "DreamingCode",
+    "Job_Title": "Data Analyst / Data Engineer",
+    "Job_Start_Date": "6/1/2020",
+    "Career_Url": "https://www.dreamingcode.com/careers/"
+  }
+
+]
